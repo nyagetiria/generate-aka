@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akan Name</title>
+    <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Akan Name</h1>
+        <p>The Akan Name Generator is a cultural web application designed to help users discover their traditional Akan name. 
+            In the Akan culture of Ghana, names are deeply rooted in the day of the week a person is born and their gender. 
+            Each day corresponds to a specific name for males and females, and these names often reflect traits or meanings 
+            associated with that day.
+            This web tool allows you to input your birthdate and select your gender. Using a built-in formula, the app calculates 
+            the day of the week you were born and assigns you the corresponding Akan name. Its a fun and educational way to 
+            explore Ghanaian traditions and learn more about your own identity or that of friends and family.
+            Whether you're simply curious or have a cultural interest, this app is an easy and interactive way to connect with 
+            an important part of West African heritage.
+        </p>
+        <form id="akanForm">
+            <input type="date" id="birthdate" required>
+            <select id="gender"required>
+                <option value="">Gender</option>
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+            </select>
+            <button type="submit">Submit</button>
+        </form>
+        <div id="result"></div>
+    </div>
+    <script src="./index.js"></script>
+</body>
+</html>
