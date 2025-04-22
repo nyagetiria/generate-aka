@@ -38,6 +38,7 @@ Visit the live site: [GitHub Pages Link](https://yourusername.github.io/akan-nam
 No known bugs at this time.
 
 ## Contact Information
+https://generate-aka.vercel.app/
 For inquiries, suggestions, or contributions, please reach out to: [your.email@example.com]
 
 ## License
