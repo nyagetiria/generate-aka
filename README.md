@@ -46,3 +46,4 @@ This project is licensed under the MIT License.
 
 ---
 © 2025 Akan Name Generator by Naomi
+https://vercel.com/nyagetirias-projects/generate-aka
